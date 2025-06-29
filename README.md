@@ -2,6 +2,10 @@
 
 https://scratch-clone-knv6syuti-abhishek-kannaujiyas-projects.vercel.app/
 
+#Scratch Video Link
+
+https://drive.google.com/file/d/1rRANH7W_iWAZmSc81P3n5mw1aU_W-lHu/view?usp=drivesdk
+
 
 
 # Getting Started with Create React App
